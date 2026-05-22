@@ -4,6 +4,11 @@ Markdown
 
 Enterprise-grade semantic text analytics API built for modern content standards. Calculates real-time readability scores, reading/speaking velocity, and SEO keyword matrix density.
 
+ **Live Demo & Official Tool:** [Click Here to Access TechnoHelps Semantic Engine](https://technohelps.com/semantic-text-analytics-api/)
+
+ <img width="1619" height="972" alt="Semantic Text Analytics API (v4 0) I TechnoHelps 100% Free" src="https://github.com/user-attachments/assets/ee82d642-45a4-4350-8c60-12fd6c6f23ed" />
+
+
 ##  Core Features
 * **Readability Scoring:** Calculates structural syllable patterns to return instant Flesch Reading Ease grading levels.
 * **SEO Keyword Matrix:** Filters standard English stop-words to extract top recurring keywords alongside density percentages.
